@@ -3,9 +3,9 @@
 ## Problems
 
 ## Easy
-- [Add Binary](https://leetcode.com/problems/add-binary/)
-- [Single Number](https://leetcode.com/problems/single-number/)
-- [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+- [Add Binary](https://leetcode.com/problems/add-binary/) yes
+- [Single Number](https://leetcode.com/problems/single-number/) use xor ,yes
+- [Reverse Bits](https://leetcode.com/problems/reverse-bits/) yes,
 - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [Binary Watch](https://leetcode.com/problems/binary-watch/)
@@ -17,9 +17,9 @@
 - [Binary Gap](https://leetcode.com/problems/binary-gap/)
 - [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 - [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
-- [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)
+- [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) yes 
 - [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
-- [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
+- [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) yes 
 - [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)
 - [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)
 
